@@ -1,3 +1,13 @@
+# Secrets
+client_secret_*
+
+# PyCharm
+.idea
+
+# Mac
+.DS_Store
+
+# Original
 __pycache__/
 env/
 env2/
